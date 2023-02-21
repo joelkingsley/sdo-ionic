@@ -1,0 +1,7 @@
+{
+  "name": "sdo-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
